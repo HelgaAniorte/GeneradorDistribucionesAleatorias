@@ -1,7 +1,7 @@
 
 package com.aleph5.RandomVariableGenerator;
 
-import com.aleph5.PseudorandomGenerator.PseudorandomNumber;
+import com.conciencia.PseudorandomGenerator.PseudorandomNumber;
 
 /**
  * Clase que contiene métodos estáticos para la generación de variables
